@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Cuentas>
+    <ID>0</ID>
+    <Usuario>TLeaNS</Usuario>
+    <Contraseña>123456</Contraseña>
+    <Nombre>Leandro Nicolas</Nombre>
+    <Apellido>Tamantini Soria</Apellido>
+    <Edad>21</Edad>
+    <Fecha_de_nacimiento>2002-09-29T00:00:00-03:00</Fecha_de_nacimiento>
+    <Telefono>3514087737</Telefono>
+    <Email>leonicolas6@gmail.com</Email>
+    <Creacion>2023-05-29T01:14:30.402782-03:00</Creacion>
+  </Cuentas>
+  <Cuentas>
+    <ID>1</ID>
+    <Usuario>Pepe777</Usuario>
+    <Contraseña>pepe</Contraseña>
+    <Nombre>Pepe</Nombre>
+    <Apellido>Pepito</Apellido>
+    <Edad>23</Edad>
+    <Fecha_de_nacimiento>2000-09-29T00:00:00-03:00</Fecha_de_nacimiento>
+    <Telefono>3517777777</Telefono>
+    <Email>pepe@gmail.com</Email>
+    <Creacion>2023-06-01T10:43:07.5375152-03:00</Creacion>
+  </Cuentas>
+  <Cuentas>
+    <ID>2</ID>
+    <Usuario>asd</Usuario>
+    <Contraseña>asd</Contraseña>
+    <Nombre>asd</Nombre>
+    <Apellido>asd</Apellido>
+    <Edad>270</Edad>
+    <Fecha_de_nacimiento>1753-01-01T00:00:00-03:00</Fecha_de_nacimiento>
+    <Telefono>123</Telefono>
+    <Email>asd</Email>
+    <Creacion>2023-06-01T10:57:59.8127293-03:00</Creacion>
+  </Cuentas>
+  <Cuentas>
+    <ID>3</ID>
+    <Usuario>Pepe2</Usuario>
+    <Contraseña>12345</Contraseña>
+    <Nombre>Pepe</Nombre>
+    <Apellido>Pepe</Apellido>
+    <Edad>23</Edad>
+    <Fecha_de_nacimiento>2000-10-17T00:00:00-03:00</Fecha_de_nacimiento>
+    <Telefono>35177896</Telefono>
+    <Email>pepe123@gmail.com</Email>
+    <Creacion>2023-06-01T11:43:33.0044587-03:00</Creacion>
+  </Cuentas>
+</DocumentElement>
